@@ -71,7 +71,7 @@ Follow these simple steps to get started with SimFusion:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/smn06/SimFusion.git
+   git clone https://github.com/farzanashimu/SimFusion.git
    cd SimFusion
    ```
 
